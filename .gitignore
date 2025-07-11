@@ -1,0 +1,29 @@
+# Large model files
+models/*.gguf
+models/*.bin
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Installer files
+*.msi
+*.exe
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment files
+.env
+.venv/
+venv/ 
